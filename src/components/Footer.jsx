@@ -14,7 +14,7 @@ export default function Footer() {
                     </div>
                 </div>
 
-                {/* Main Footer Content */}
+                {/* Main Footer Content across all pages*/}
                 <div className="md:flex md:justify-between md:space-x-12">
                     {/* Logo and Description */}
                     <div className="mb-8 md:mb-0 md:w-1/3">
